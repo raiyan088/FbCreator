@@ -85,14 +85,14 @@
       }
     },
     "phone": {
-      "brand": "Samsung",
-      "imei": "868425042777334",
-      "manufacturer": "Samsung",
-      "miit": "SM-A528B",
+      "brand": "VVVVVVVVVV",
+      "imei": "WWWWWWWWWW",
+      "manufacturer": "XXXXXXXXXX",
+      "miit": "YYYYYYYYYY",
       "mode": {
         "choose": "phone.mode.preset"
       },
-      "model": "Galaxy A52s 5G",
+      "model": "ZZZZZZZZZZ",
       "number": ""
     },
     "player": {
@@ -123,14 +123,14 @@
       }
     },
     "resolution": {
-      "current": "720.000000:1280.000000:320.000000",
+      "current": "720.000000:1280.000000:240.000000",
       "mode": {
-        "choose": "resolution.mode.phone",
-        "custom": "1600.000000:900.000000:240.000000",
+        "choose": "resolution.mode.custom",
+        "custom": "720.000000:1280.000000:240.000000",
         "intelligence": "1600:900:240",
         "intelligence_enable": "0",
         "intelligence_preselect_enable": "0",
-        "phone": "720.000000:1280.000000:320.000000",
+        "phone": "0.000000:0.000000:0.000000",
         "tablet": "0.000000:0.000000:0.000000",
         "widescreen": "0.000000:0.000000:0.000000"
       }
